@@ -1,0 +1,152 @@
+repo_name: Haribhusal/codelivly-strapi
+report_id: 5decd69e73d472f2667594f7555c3dfc
+version: 0.1
+repo_type: Public
+timestamp: '2024-03-24T16:43:42+00:00'
+requested_by: Haribhusal
+provider: github
+branch: master
+detected_tools_count: 11
+tools:
+- name: JavaScript
+  description: Lightweight, interpreted, object-oriented language with first-class
+    functions
+  website_url: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/Haribhusal/codelivly-strapi
+  detection_source: Repo Metadata
+- name: React
+  description: A JavaScript library for building user interfaces
+  website_url: https://reactjs.org/
+  version: 18.2.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Javascript UI Libraries
+  image_url: https://img.stackshare.io/service/1020/OYIaJ1KK.png
+  detection_source_url: https://github.com/Haribhusal/codelivly-strapi/blob/master/yarn.lock
+  detection_source: package.json
+  last_updated_by: Haribhusal
+  last_updated_on: 2024-03-23 07:18:02.000000000 Z
+- name: React Router
+  description: A complete routing solution for React.js
+  website_url: https://github.com/rackt/react-router
+  version: 5.3.4
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: JavaScript Framework Components
+  image_url: https://img.stackshare.io/service/3350/8261421.png
+  detection_source_url: https://github.com/Haribhusal/codelivly-strapi/blob/master/yarn.lock
+  detection_source: package.json
+  last_updated_by: Haribhusal
+  last_updated_on: 2024-03-23 07:18:02.000000000 Z
+- name: styled-components
+  description: Visual primitives for the component age. Use the best bits of ES6 and
+    CSS to style your apps without stress.
+  website_url: https://styled-components.com
+  version: 5.3.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: JavaScript Framework Components
+  image_url: https://img.stackshare.io/service/6749/styled-components.png
+  detection_source_url: https://github.com/Haribhusal/codelivly-strapi/blob/master/yarn.lock
+  detection_source: package.json
+  last_updated_by: Haribhusal
+  last_updated_on: 2024-03-23 07:18:02.000000000 Z
+- name: MySQL
+  description: The world's most popular open source database
+  website_url: http://www.mysql.com
+  version: 2.18.1
+  open_source: true
+  hosted_saas: false
+  category: Data Stores
+  sub_category: Databases
+  image_url: https://img.stackshare.io/service/1025/logo-mysql-170x170.png
+  detection_source_url: https://github.com/Haribhusal/codelivly-strapi/blob/master/yarn.lock
+  detection_source: package.json
+  last_updated_by: Haribhusal
+  last_updated_on: 2024-03-23 07:18:02.000000000 Z
+- name: ESLint
+  description: The fully pluggable JavaScript code quality tool
+  website_url: http://eslint.org/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Code Review
+  image_url: https://img.stackshare.io/service/3337/Q4L7Jncy.jpg
+  detection_source_url: https://github.com/Haribhusal/codelivly-strapi/blob/master/.eslintrc
+  detection_source: ".eslintrc"
+  last_updated_by: Haribhusal
+  last_updated_on: 2024-03-23 07:18:02.000000000 Z
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/Haribhusal/codelivly-strapi
+  detection_source: Repo Metadata
+- name: Yarn
+  description: A new package manager for JavaScript
+  website_url: https://yarnpkg.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Front End Package Manager
+  image_url: https://img.stackshare.io/service/5848/44mC-kJ3.jpg
+  detection_source_url: https://github.com/Haribhusal/codelivly-strapi/blob/master/yarn.lock
+  detection_source: yarn.lock
+  last_updated_by: Haribhusal
+  last_updated_on: 2024-03-23 07:18:02.000000000 Z
+- name: npm
+  description: The package manager for JavaScript.
+  website_url: https://www.npmjs.com/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Front End Package Manager
+  image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
+  detection_source_url: https://github.com/Haribhusal/codelivly-strapi/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Haribhusal
+  last_updated_on: 2024-03-23 07:18:02.000000000 Z
+- name: react-dom
+  description: React package for working with the DOM
+  package_url: https://www.npmjs.com/react-dom
+  version: 18.2.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15808/default_14fd11531839d935f920b6d55bd6f3528c890ad7.png
+  detection_source_url: https://github.com/Haribhusal/codelivly-strapi/blob/master/yarn.lock
+  detection_source: package.json
+  last_updated_by: Haribhusal
+  last_updated_on: 2024-03-23 07:18:02.000000000 Z
+- name: react-router-dom
+  description: DOM bindings for React Router
+  package_url: https://www.npmjs.com/react-router-dom
+  version: 5.3.4
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16025/default_e25d1fbb04a118c79fb444294461417342bd03bf.png
+  detection_source_url: https://github.com/Haribhusal/codelivly-strapi/blob/master/yarn.lock
+  detection_source: package.json
+  last_updated_by: Haribhusal
+  last_updated_on: 2024-03-23 07:18:02.000000000 Z
